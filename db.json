@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "name": "pocobn",
+      "category": "mobile",
+      "price": "3555",
+      "stock": "3",
+      "description": "good",
+      "id": 2
+    },
+    {
+      "name": "oppog9",
+      "category": "mobile",
+      "price": "44000",
+      "stock": "4",
+      "description": "good",
+      "id": 3
+    },
+    {
+      "name": "mi",
+      "category": "mobile",
+      "price": "20000",
+      "stock": "3",
+      "description": "good",
+      "id": 4
+    }
+  ]
+}
